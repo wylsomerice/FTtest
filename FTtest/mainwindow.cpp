@@ -8,7 +8,6 @@
 #include <QModbusRtuSerialMaster>
 #include <QStandardItemModel>
 #include <QStatusBar>
-#include <QUrl>
 #include <QSerialPort>
 #include <QModbusDataUnit>
 #include <QTimer>
